@@ -1,0 +1,1 @@
+A regression project that explores a dataset from Kaggle (https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024/data) and uses machine learning methods to predict patient cancer severity score.
